@@ -1,0 +1,23 @@
+{
+  "name": "google-translate",
+  "version": "1.0.0",
+  "description": "Translate any json using google translate api for free",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "translate",
+    "json",
+    "api",
+    "free",
+    "language"
+  ],
+  "author": "Andres Jorquera",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "deepmerge": "^2.1.1"
+  }
+}
